@@ -1,7 +1,7 @@
 package playground
 
-import akka.actor.typed.ActorSystem
-import akka.actor.typed.scaladsl.Behaviors
+import org.apache.pekko.actor.typed.ActorSystem
+import org.apache.pekko.actor.typed.scaladsl.Behaviors
 
 import scala.concurrent.ExecutionContext
 import scala.concurrent.duration._
